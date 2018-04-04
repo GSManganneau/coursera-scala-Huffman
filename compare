@@ -1,0 +1,2 @@
+Fork(Leaf(a,8),Fork(Fork(Fork(Leaf(g,1),Leaf(h,1),List(g, h),2),Fork(Leaf(e,1),Leaf(f,1),List(e, f),2),List(e, f, g, h),4),Fork(Fork(Leaf(c,1),Leaf(d,1),List(c, d),2),Leaf(b,3),List(b, c, d),5),List(b, c, d, e, f, g, h),9),List(a, b, c, d, e, f, g, h),17) did not equal
+Fork(Leaf(a,8),Fork(Fork(Fork(Leaf(e,1),Leaf(f,1),List(e, f),2),Fork(Leaf(g,1),Leaf(h,1),List(g, h),2),List(e, f, g, h),4),Fork(Fork(Leaf(c,1),Leaf(d,1),List(c, d),2),Leaf(b,3),List(b, c, d),5),List(b, c, d, e, f, g, h),9),List(a, b, c, d, e, f, g, h),17)
